@@ -37,6 +37,5 @@ This repository provides a highly modular, production-grade pipeline for extract
 
 > 💡 This project is Colab-compatible! You can run each stage in a separate Colab notebook or cell block.
 
-### 1. Clone the Repository
 
 
