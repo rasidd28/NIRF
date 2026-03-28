@@ -1,4 +1,4 @@
-# 🚀 NIRF Analytics RAG System v3.0
+#  NIRF Analytics RAG System v3.0
 
 **Advanced Retrieval-Augmented Generation & Analytics Pipeline for Indian Higher Education**
 
